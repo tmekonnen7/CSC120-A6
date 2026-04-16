@@ -10,7 +10,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ## Assignment Points:
 
-_____ 10 pts: The class contains at least 10 unit tests that identify bugs in the solution. Each bug is documented in the log
+**YES** 10 pts: The class contains at least 10 unit tests that identify bugs in the solution. Each bug is documented in the log
 
 
 ## General Items:
